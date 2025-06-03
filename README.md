@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Com sólido conhecimento em tecnologia e atualmente focado no desenvolvimento front-end, sou apaixonado por criar interfaces modernas, intuitivas e responsivas que entregam valor real ao usuário. Tenho atuado na construção de aplicações web escaláveis, com atenção à performance, acessibilidade e boas práticas de desenvolvimento.".
+Com sólido conhecimento em tecnologia e atualmente focado no desenvolvimento front-end, sou apaixonado por criar interfaces modernas, intuitivas e responsivas que entregam valor real ao usuário. Tenho atuado na construção de aplicações web escaláveis, com atenção à performance, acessibilidade e boas práticas de desenvolvimento.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
