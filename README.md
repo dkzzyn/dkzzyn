@@ -92,23 +92,6 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • SaaS
 
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api?username=dkzzyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br" 
-/>
-
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzzyn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Tecnologias" 
-/>
-
-</div>
 
 
 ## 🔥 Sequência de commits
