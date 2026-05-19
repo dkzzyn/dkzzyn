@@ -42,17 +42,4 @@ Com sólido conhecimento em tecnologia e atualmente focado no desenvolvimento fr
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=dkzzyn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzzyn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+## 📊 Estatísticas GitHub<div align="center"><img   height="170em"   src="https://github-readme-stats.vercel.app/api?username=dkzzyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br" /><img   height="170em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzzyn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Tecnologias" /></div><div align="center"><img   width="70%"   src="https://github-readme-activity-graph.vercel.app/graph?username=dkzzyn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" /></div><div align="center"><img   src="https://streak-stats.demolab.com?user=dkzzyn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /></div>
