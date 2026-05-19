@@ -110,7 +110,6 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • SaaS
 
 </div>
 
----
 
 ## 🔥 Sequência de commits
 
@@ -122,20 +121,6 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • SaaS
 
 </div>
 
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img 
-  width="90%" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dkzzyn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" 
-/>
-
-</div>
-
----
 
 ## 🏆 Troféus
 
@@ -146,18 +131,6 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • SaaS
 />
 
 </div>
-
----
-
-## 🚀 Projetos em destaque
-
-📌 Sistema de Controle de Estoque  
-📌 Sistema de Estacionamento  
-📌 SaaS para Barbearia  
-📌 Landing Pages Modernas  
-📌 Sistemas Web Full Stack  
-
----
 
 <div align="center">
 
