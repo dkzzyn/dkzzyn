@@ -44,25 +44,7 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • SaaS
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api?username=dkzzyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&locale=pt-br" 
-/>
-
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzzyn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Tecnologias" 
-/>
-
-</div>
-
----
-
-## 🔥 Sequência de commits & 🏆 Troféus
+## 🔥 GitHub Overview
 
 <div align="center">
 
@@ -73,20 +55,25 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • SaaS
 
 <img 
   height="170em"
-  src="https://github-profile-trophy.vercel.app/?username=dkzzyn&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzzyn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Tecnologias" 
 />
 
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
+## 🏆 Troféus & 📈 Atividade
 
 <div align="center">
 
 <img 
-  width="95%" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dkzzyn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" 
+  height="170em"
+  src="https://github-profile-trophy.vercel.app/?username=dkzzyn&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" 
+/>
+
+<img 
+  height="170em"
+  src="https://github-readme-stats.vercel.app/api?username=dkzzyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&locale=pt-br" 
 />
 
 </div>
